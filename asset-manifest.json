@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-mobile-device-view/static/css/main.ca5f27cc.chunk.css",
-    "main.js": "/react-mobile-device-view/static/js/main.eca76906.chunk.js",
-    "main.js.map": "/react-mobile-device-view/static/js/main.eca76906.chunk.js.map",
+    "main.css": "/react-mobile-device-view/static/css/main.b1fd519f.chunk.css",
+    "main.js": "/react-mobile-device-view/static/js/main.acd7a54b.chunk.js",
+    "main.js.map": "/react-mobile-device-view/static/js/main.acd7a54b.chunk.js.map",
     "runtime-main.js": "/react-mobile-device-view/static/js/runtime-main.00341437.js",
     "runtime-main.js.map": "/react-mobile-device-view/static/js/runtime-main.00341437.js.map",
     "static/js/2.95242cf8.chunk.js": "/react-mobile-device-view/static/js/2.95242cf8.chunk.js",
     "static/js/2.95242cf8.chunk.js.map": "/react-mobile-device-view/static/js/2.95242cf8.chunk.js.map",
     "index.html": "/react-mobile-device-view/index.html",
-    "precache-manifest.56e10d9c8f4aef548fb33fe2474a4f49.js": "/react-mobile-device-view/precache-manifest.56e10d9c8f4aef548fb33fe2474a4f49.js",
+    "precache-manifest.88d706ff6dcda96b85190c84fe620987.js": "/react-mobile-device-view/precache-manifest.88d706ff6dcda96b85190c84fe620987.js",
     "service-worker.js": "/react-mobile-device-view/service-worker.js",
-    "static/css/main.ca5f27cc.chunk.css.map": "/react-mobile-device-view/static/css/main.ca5f27cc.chunk.css.map",
+    "static/css/main.b1fd519f.chunk.css.map": "/react-mobile-device-view/static/css/main.b1fd519f.chunk.css.map",
     "static/js/2.95242cf8.chunk.js.LICENSE.txt": "/react-mobile-device-view/static/js/2.95242cf8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.00341437.js",
     "static/js/2.95242cf8.chunk.js",
-    "static/css/main.ca5f27cc.chunk.css",
-    "static/js/main.eca76906.chunk.js"
+    "static/css/main.b1fd519f.chunk.css",
+    "static/js/main.acd7a54b.chunk.js"
   ]
 }
