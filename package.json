@@ -1,8 +1,10 @@
 {
   "name": "react-mobile-device-view",
+  "homepage": "https://mostafa-drz.github.io/react-mobile-device-view",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@styled-icons/material": "^10.0.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -13,9 +15,16 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
-    "typescript": "^3.7.5"
+    "styled-components": "^5.0.1",
+    "tslint": "^6.0.0",
+    "typescript": "^3.8.3",
+    "gh-pages": "^2.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "clear": "rm -rf node_modules",
+    "prod": "npm run clear && npm install && npm run build && npm run deploy",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
